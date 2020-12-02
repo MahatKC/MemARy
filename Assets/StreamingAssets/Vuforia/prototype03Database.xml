@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="p00a" size="300.000000 300.000000" />
+    <ImageTarget name="p00b" size="300.000000 300.000000" />
+    <ImageTarget name="p01a" size="300.000000 300.000000" />
+    <ImageTarget name="p01b" size="300.000000 300.000000" />
+    <ImageTarget name="p02a" size="300.000000 300.000000" />
+    <ImageTarget name="p02b" size="300.000000 300.000000" />
+    <ImageTarget name="p03a" size="300.000000 300.000000" />
+    <ImageTarget name="p03b" size="300.000000 300.000000" />
+    <ImageTarget name="p04b" size="300.000000 300.000000" />
+    <ImageTarget name="p04a" size="300.000000 300.000000" />
+    <ImageTarget name="p05a" size="300.000000 300.000000" />
+    <ImageTarget name="p05b" size="300.000000 300.000000" />
+    <ImageTarget name="p06a" size="300.000000 300.000000" />
+    <ImageTarget name="p06b" size="300.000000 300.000000" />
+    <ImageTarget name="p07a" size="300.000000 300.000000" />
+    <ImageTarget name="p07b" size="300.000000 300.000000" />
+    <ImageTarget name="p08a" size="300.000000 300.000000" />
+    <ImageTarget name="p08b" size="300.000000 300.000000" />
+    <ImageTarget name="p09a" size="300.000000 300.000000" />
+    <ImageTarget name="p09b" size="300.000000 300.000000" />
+    <ImageTarget name="p10a" size="300.000000 300.000000" />
+    <ImageTarget name="p10b" size="300.000000 300.000000" />
+    <ImageTarget name="p11a" size="300.000000 300.000000" />
+    <ImageTarget name="p11b" size="300.000000 300.000000" />
+    <ImageTarget name="p12a" size="300.000000 300.000000" />
+    <ImageTarget name="p12b" size="300.000000 300.000000" />
+    <ImageTarget name="p13a" size="300.000000 300.000000" />
+    <ImageTarget name="p13b" size="300.000000 300.000000" />
+    <ImageTarget name="p14a" size="300.000000 300.000000" />
+    <ImageTarget name="p14b" size="300.000000 300.000000" />
+  </Tracking>
+</QCARConfig>

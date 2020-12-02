@@ -1,0 +1,19 @@
+READ ME
+-------
+Asset: Low Poly 3D Gargbase & Tow Trucks
+Version: 1.0
+Date: 3/09/2019 
+
+- This asset is low poly.
+- This asset includes hand-painted texture diffuse map.
+- Textures should be used with shader mobile < diffuse for actual results.
+- The package includes two demo scenes: 
+	1. Daylight: Directional light is used. 
+	2. Night View: Spot lights & point lights are used for Truck lights alongwith sprites. Directional light with 0.3 intensity is used to create night view. 
+- No Skybox is used.
+- Gradient Light is used. Please check Environment Lighting for details. 
+- Post Processing Effects used: 
+	1. Bloom Effect
+	2. Color grading 
+
+Copyright 2019, Innovana Techlabs Limited. All rights reserved.
