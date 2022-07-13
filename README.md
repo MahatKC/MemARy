@@ -1,9 +1,12 @@
 # MemARy
-Jogo da Memória em Realidade Aumentada para Aprendizagem de Idiomas.
-________
-### Links úteis
 
-* [Baixar APK Completo](https://drive.google.com/file/d/19izk1FaZIaWdWJHuWQu3braDESgLA3fx/view?usp=sharing)
-* [Vídeo Explicativo](https://youtu.be/sAHNBM-vEEE)
-* [QR Codes para Impressão (.zip)](https://drive.google.com/file/d/1ZriIKst1yRhEsJhn2WqZY6BJ_Djjz_6-/view?usp=sharing)
-* [Artigo Explicativo]()
+Project developed by [@MahatKC](https://www.github.com/MahatKC) and [@igorFNegrizoli](https://www.github.com/igorFNegrizoli) in 2020 as an assignment for the Augmented Reality class.
+
+The project is an Augmented Reality Memory Game for Language Learning which helps learners learn new words by visualizing their corresponding objecs.
+
+________
+### Useful links
+
+* [APK](https://drive.google.com/file/d/19izk1FaZIaWdWJHuWQu3braDESgLA3fx/view?usp=sharing)
+* [Video presentation](https://youtu.be/sAHNBM-vEEE)
+* [QR Codes for printing (.zip)](https://drive.google.com/file/d/1ZriIKst1yRhEsJhn2WqZY6BJ_Djjz_6-/view?usp=sharing)
