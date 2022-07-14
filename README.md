@@ -1,12 +1,12 @@
 # MemARy
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MahatKC/MemARy/master/CarObject.png" width="300"/><br>
+  <img src="https://raw.githubusercontent.com/MahatKC/MemARy/master/CarObject.png" width="500"/><br>
   <span><i>AR Object</i></span>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MahatKC/MemARy/master/CarWord.png" width="300"/><br>
+  <img src="https://raw.githubusercontent.com/MahatKC/MemARy/master/CarWord.png" width="500"/><br>
   <span><i>AR Word</i></span>
 </p>
 
