@@ -1,5 +1,15 @@
 # MemARy
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MahatKC/MemARy/master/CarObject.png" width="300"/><br>
+  <span><i>AR Object</i></span>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MahatKC/MemARy/master/CarWord.png" width="300"/><br>
+  <span><i>AR Word</i></span>
+</p>
+
 Project developed by [@MahatKC](https://www.github.com/MahatKC) and [@igorFNegrizoli](https://www.github.com/igorFNegrizoli) in 2020 as an assignment for the Augmented Reality class.
 
 The project is an Augmented Reality Memory Game for Language Learning which helps learners learn new words by visualizing their corresponding objecs.
